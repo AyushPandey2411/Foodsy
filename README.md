@@ -1,7 +1,7 @@
 # 🍽️ **Foodsy - Food Delivery Web App**  
 
 🚀 **Explore Live Demo**: [Foodsy Customer Panel](https://foodsyrest.netlify.app/)  
-🛠️ **Admin Panel**: [Foodsy Admin Panel](https://foodsyadmin.netlify.app/)  
+
 
 Foodsy is a feature-rich and user-friendly **MERN Stack** food delivery web application designed to provide seamless meal ordering and delivery services. Customers can explore a variety of meals, customize their orders, and enjoy delicious food from the comfort of their homes.
 
