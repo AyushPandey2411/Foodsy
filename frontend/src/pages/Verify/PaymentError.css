@@ -1,0 +1,81 @@
+/* Container Styling */
+.payment-error-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f9f9f9;
+  }
+  
+  /* Card Styling */
+  .payment-error-card {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 400px;
+    width: 100%;
+  }
+  
+  /* Icon Styling */
+  .error-icon {
+    font-size: 4rem;
+    color: #e63946;
+    margin-bottom: 1rem;
+  }
+  
+  /* Title Styling */
+  .error-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    color: #333;
+  }
+  
+  /* Message Styling */
+  .error-message {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Button Group */
+  .button-group {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+  }
+  
+  /* Primary Button */
+  .primary-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .primary-button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Secondary Button */
+  .secondary-button {
+    background-color: #f1f1f1;
+    color: #333;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .secondary-button:hover {
+    background-color: #ddd;
+  }
+  
