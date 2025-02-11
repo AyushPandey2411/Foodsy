@@ -2,13 +2,12 @@
 
 🚀 **Explore Live Demo**: [Foodsy Customer Panel](https://foodsyrest.netlify.app/)  
 
-
-Foodsy is a feature-rich and user-friendly **MERN Stack** food delivery web application designed to provide seamless meal ordering and delivery services. Customers can explore a variety of meals, customize their orders, and enjoy delicious food from the comfort of their homes.
+Foodsy is a feature-rich and user-friendly **MERN Stack** food delivery web application designed to provide seamless meal ordering and delivery services. Customers can explore a variety of meals, customize their orders, and enjoy delicious food from the comfort of their homes.  
 
 ## 🚀 **Key Features**  
 
-### 🛒 **User-Friendly Ordering**
-- Browse a diverse menu with categorized food items.
+### 🛒 **User-Friendly Ordering**  
+- Browse a diverse menu with categorized food items.  
 - Add items to the cart and customize them with preferences & add-ons.  
 - View estimated delivery times before placing an order.  
 
@@ -37,14 +36,19 @@ Foodsy is a feature-rich and user-friendly **MERN Stack** food delivery web appl
 ### 📊 **Admin Dashboard**  
 - Monitor orders, revenue, users, and app analytics through an intuitive **admin panel**.  
 
+### ☁️ **Cloud-Based Image Management**  
+- **Cloudinary** is used for efficient image storage and optimization.  
+- Fast image delivery via a **CDN**, ensuring a seamless user experience.  
+- Admins can upload, update, and manage food item images with ease.  
+
 ## 🏗️ **Tech Stack**  
 
-### 🎨 **Frontend (React.js + CSS)**
+### 🎨 **Frontend (React.js + CSS)**  
 - Built with **React.js** for a fast and responsive UI.  
 - Styled using **CSS3** for a visually appealing design.  
 - Integrated dynamic UI components for better user interaction.  
 
-### 🛠️ **Backend (Node.js + Express.js)**
+### 🛠️ **Backend (Node.js + Express.js)**  
 - **Express.js** for handling API routes.  
 - **MongoDB** as the database for storing user, order, and product data.  
 - **Mongoose** for easy database interaction.  
@@ -53,8 +57,13 @@ Foodsy is a feature-rich and user-friendly **MERN Stack** food delivery web appl
 - NoSQL database for efficient data storage and retrieval.  
 - **CRUD operations** for food items, users, and orders.  
 
-### 💳 **Payment Integration (Stripe)**
+### ☁️ **Cloud Storage (Cloudinary)**  
+- **Cloudinary** for storing and optimizing images.  
+- Image transformations and automatic format adjustments for better performance.  
+
+### 💳 **Payment Integration (Stripe)**  
 - Secure and seamless **Stripe** payment gateway integration.  
+
 
 ## 🖼️ **Screenshots**  
 ![Screenshot 2025-01-31 005304](https://github.com/user-attachments/assets/5f1dfde5-3e14-4bb8-98fb-8f36461e4659)
